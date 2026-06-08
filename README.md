@@ -38,6 +38,7 @@ Software engineer focused on **autonomous AI agent orchestration**, **Go service
 ### AI & LLMs
 ![Anthropic Claude](https://img.shields.io/badge/-Anthropic%20Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hermes](https://img.shields.io/badge/-Hermes-6B46C1?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### Testing
