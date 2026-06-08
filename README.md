@@ -59,9 +59,3 @@ Software engineer focused on **autonomous AI agent orchestration**, **Go service
 - **[nhanga](https://github.com/tzone85/nhanga)** — PWA for learning Shona through music. One song a week, Sunday quiz.
 - **[sa-fintech-skills](https://github.com/tzone85/sa-fintech-skills)** — Multi-runtime AI-agent skill pack for South African fintech APIs (Paystack, PayFast, POPIA, SARS).
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tzone85&show_icons=true&theme=default&hide_border=true&count_private=false)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tzone85&layout=compact&theme=default&hide_border=true&langs_count=10)
