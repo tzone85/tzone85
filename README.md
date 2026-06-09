@@ -1,6 +1,6 @@
 # Hi, I'm Thando Mini 👋
 
-Software engineer who loves everything tech. Right now however, I'm a little obsessed with **autonomous AI agent orchestration**, **Go services**, and **education tech (EdTech)**. I build tools that hand off real work to AI and bring back merged PRs — currently across [px-dispatch](https://github.com/tzone85/px-dispatch), [vortex-dispatch](https://github.com/tzone85/vortex-dispatch), [nexus-dispatch](https://github.com/tzone85/nexus-dispatch), and [themis](https://github.com/tzone85/themis).
+Software engineer who loves everything tech. Right now however, I'm a little obsessed with **autonomous AI agent orchestration**, **Go services**, and **education tech (EdTech)**. I build tools that hand off real work to AI and bring back merged PRs — currently across [vortex-dispatch](https://github.com/tzone85/vortex-dispatch), [px-dispatch](https://github.com/tzone85/px-dispatch), [nexus-dispatch](https://github.com/tzone85/nexus-dispatch), and [themis](https://github.com/tzone85/themis).
 
 ---
 
